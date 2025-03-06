@@ -38,7 +38,7 @@ public class Library {
     }
 
     public void shuffle() {
-        Collections.shuffle(collection);
+        Collections.shuffle(collection);    // ues
     }
 
 
