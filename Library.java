@@ -5,7 +5,7 @@ import java.util.Collections;
 public class Library {
     ArrayList <String> collection = new ArrayList<String>();
 
-    public Library(ArrayList <String> collection) {
+    public Library() {
         this.collection = collection;
     }
 
